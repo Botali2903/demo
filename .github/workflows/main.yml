@@ -1,4 +1,4 @@
-name: kubeflask
+name: app
 
 on:
   push:
